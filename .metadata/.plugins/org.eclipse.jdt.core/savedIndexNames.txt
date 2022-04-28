@@ -1,5 +1,4 @@
 INDEX VERSION 1.131+C:\springprj\.metadata\.plugins\org.eclipse.jdt.core
-1826102293.index
 3012088441.index
 3819325023.index
 3121404225.index
@@ -22,16 +21,9 @@ INDEX VERSION 1.131+C:\springprj\.metadata\.plugins\org.eclipse.jdt.core
 3298890517.index
 3355898072.index
 1717834089.index
-<<<<<<< HEAD
-3105750244.index
-1649141480.index
-52171741.index
-954286294.index
-=======
 52171741.index
 954286294.index
 3054694905.index
->>>>>>> 3d1c8ec81e84e95b79bf272fad60ef779644829b
 914240296.index
 2176623146.index
 3549902561.index
@@ -64,19 +56,12 @@ INDEX VERSION 1.131+C:\springprj\.metadata\.plugins\org.eclipse.jdt.core
 4210255211.index
 889786356.index
 4091398089.index
-<<<<<<< HEAD
-1992621665.index
-3029822194.index
-97441276.index
-1149191603.index
-=======
 1224223844.index
 3029822194.index
 97441276.index
 1272346419.index
 3733045930.index
 515469319.index
->>>>>>> 3d1c8ec81e84e95b79bf272fad60ef779644829b
 3054638773.index
 2145188268.index
 2535877956.index
