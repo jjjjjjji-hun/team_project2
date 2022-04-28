@@ -1,6 +1,10 @@
 INDEX VERSION 1.131
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\team2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012398589.index
+=======
+C:\springprj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012398589.index
+>>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8
 =======
 C:\springprj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012398589.index
 >>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8

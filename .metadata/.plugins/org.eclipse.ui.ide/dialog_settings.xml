@@ -8,7 +8,11 @@
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<item value="C:\team2"/>
+=======
+			<item value="C:\springprj"/>
+>>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8
 =======
 			<item value="C:\springprj"/>
 >>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8
