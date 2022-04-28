@@ -31,10 +31,13 @@
 	</bean>	
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<mybatis-spring:scan base-package="com.project.board.mapper"/>
 	
 	<context:component-scan base-package="com.project.board.service"/>
 =======
+=======
+>>>>>>> muhwan
 	<mybatis-spring:scan base-package="com.project.reply.mapper"/>
 	<context:component-scan base-package="com.project.reply.service"/>
 	
@@ -49,5 +52,8 @@
 	
 	<mybatis-spring:scan base-package="com.project.pay.mapper"/>
 	<context:component-scan base-package="com.project.pay.service"/>
+<<<<<<< HEAD
 >>>>>>> jihun
+=======
+>>>>>>> muhwan
 </beans>
