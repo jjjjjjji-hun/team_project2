@@ -1,15 +1,3 @@
 INDEX VERSION 1.131
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 C:\team2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012398589.index
-=======
-C:\springprj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012398589.index
->>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8
-=======
-C:\springprj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012398589.index
->>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8
-=======
-C:\springprj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012398589.index
->>>>>>> eb624d45d22496791664ed447f61a10309a9b8e1
 \katydid\src\main\java

@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-GitRepositoriesView.GitDirectories=C\:\\team2\\.git;C\:\\spring_1\\.git;
-=======
-GitRepositoriesView.GitDirectories=C\:\\springprj\\.git;C\:\\spring_1\\.git;
->>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8
-=======
-GitRepositoriesView.GitDirectories=C\:\\springprj\\.git;C\:\\spring_1\\.git;
->>>>>>> 628a6c1322a583c0e6bb256b34fbcbb8f518d2c8
-=======
-GitRepositoriesView.GitDirectories=C\:\\springprj\\.git;C\:\\spring_1\\.git;
->>>>>>> eb624d45d22496791664ed447f61a10309a9b8e1
-GitRepositoriesView.GitDirectories.relative=.git;C\:\\spring_1\\.git;
+GitRepositoriesView.GitDirectories=C\:\\team2\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
